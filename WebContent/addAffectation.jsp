@@ -51,7 +51,7 @@
           </div>
        </div>   
 	   <div class="inputfield">
-          <label>Semestre</label>
+          <label>Semestre 3</label>
           <div onclick="show()" class="custom_select">
             <select name="receiver" disabled>
               <option value="">Select Semestre</option>
