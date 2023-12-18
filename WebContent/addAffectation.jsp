@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     
     <!-- custom css file link  -->
-    <!-- <link rel="stylesheet" href="css/style2.css"> -->
 </head>
 <body>
 <form action="allAffectations_infos" name="myform" method="post">
