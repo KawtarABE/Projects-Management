@@ -1,9 +1,5 @@
 package com.JAVA.Beans;
-
-import java.sql.Date;
-
 public class Student extends User{
-	
 	private String id;
 	private String nom;
 	private String prenom;
